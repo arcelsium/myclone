@@ -1,5 +1,5 @@
 .gradle
-/build/
+!/build/test-results/test/
 *~
 *.gradle
 # Ignore Gradle GUI config
